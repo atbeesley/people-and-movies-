@@ -67,11 +67,11 @@ INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '21:0
 
 -- INSERT INTO movies (name) VALUES ('Bart Simpson');
 
-INSERT INTO movies (title, show_time) VALUES ('Avengers: Infinity War', '24:00');
-
-SELECT show_time FROM movies WHERE title = 'Iron Man 2';
-
-UPDATE movies SET show_time = '20:45' WHERE show_time = '21:55';
+-- INSERT INTO movies (title, show_time) VALUES ('Avengers: Infinity War', '24:00');
+--
+-- SELECT show_time FROM movies WHERE title = 'Iron Man 2';
+--
+-- UPDATE movies SET show_time = '20:45' WHERE show_time = '21:55';
 
 SELECT * FROM people;
 

@@ -235,7 +235,12 @@ show_time
   18 | Thor: Ragnarok                      | 2017 | 22:10
   19 | Black Panther                       | 2018 | 21:00
    7 | Iron Man 3  
-   
+
 ## Extension
 
 1.  Research how to delete multiple entries from your table in a single command.
+
+
+DELETE FROM table WHERE col1='4' and col2='5'
+
+DELETE FROM table WHERE col1 IN (1,2,3,4,5)
