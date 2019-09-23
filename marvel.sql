@@ -73,7 +73,6 @@ SELECT show_time FROM movies WHERE title = 'Iron Man 2';
 
 UPDATE movies SET show_time = '20:45' WHERE show_time = '21:55';
 
-
 SELECT * FROM people;
 
 SELECT * FROM movies;
