@@ -66,6 +66,8 @@ INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '21:0
 DELETE FROM people WHERE name = 'Eric Cartman';
 
 
+
+
 SELECT * FROM people;
 
 SELECT * FROM movies;
