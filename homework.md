@@ -193,6 +193,7 @@ show_time
 -----------
  18:45
 
+
 ## Extension
 
 1.  Research how to delete multiple entries from your table in a single command.
