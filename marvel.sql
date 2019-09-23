@@ -67,7 +67,7 @@ INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '21:0
 
 -- INSERT INTO movies (name) VALUES ('Bart Simpson');
 
--- INSERT INTO movies (title) VALUES ('Avengers: Infinity War');
+INSERT INTO movies (title, show_time) VALUES ('Avengers: Infinity War', '24:00');
 
 SELECT show_time FROM movies WHERE title = 'Iron Man 2';
 
